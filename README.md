@@ -1,0 +1,1 @@
+# ls-scala-cli-demo
